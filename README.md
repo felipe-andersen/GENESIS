@@ -22,11 +22,23 @@ Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pess
 
 ## Contribuidores
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/felipe-andersen">
+          <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="Contribuidor" width="30px">
+        </a>
+      </td>
+      <td>
+        <a href="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Ea9cyIi_U8y7mgzqX1SitKtppQOzlciXA&usqp=CAU" alt="Contribuidor" width="30px">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
-
-| <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" > | <br/>
-| <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" > |
 
 
 
