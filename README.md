@@ -1,8 +1,8 @@
 # Gênesis
+
 Gênesis é um projeto de uma espécie de marketplace de serviços relacionado a TI, onde pessoas interessadas e profissionais do ramo contratam e realizam serviços (ex. Workana e Getninja).
 
-
-## Conhecendo o app
+## Conhecendo o projeto
 
 * Proposta da aplicação ([README](https://github.com/felipe-andersen/GENESIS/blob/main/README.md 'README'))
 
