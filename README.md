@@ -18,11 +18,11 @@ Genesis é uma espécie de marketplace de serviços relacionado a TI, onde pesso
 
 ## Repositórios
 
-* Gênesis Core
+* Genesis Core
 
-* Gênesis UI
+* Genesis UI
 
-* Gênesis Native
+* Genesis Native
 
 <!--
 
