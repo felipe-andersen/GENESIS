@@ -1,4 +1,4 @@
-# Gênesis
+# Introdução
 
 Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pessoas interessadas e profissionais do ramo contratam e realizam serviços (ex. Workana e Getninja).
 
@@ -11,3 +11,19 @@ Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pess
 * Código de conduta ([CODE_OF_CONDUCT](https://github.com/felipe-andersen/GENESIS/blob/main/CODE_OF_CONDUCT.md 'CODE_OF_CONDUCT'))
 
 * Licença ([LICENSE](https://github.com/felipe-andersen/GENESIS/blob/main/LICENSE.md 'LICENSE'))
+
+## Repositórios
+
+* Gênesis Core
+
+* Gênesis UI
+
+* Gênesis Native
+
+## Contribuidores
+
+<picture>
+  <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" ></img>
+</picture>
+
+
