@@ -22,8 +22,11 @@ Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pess
 
 ## Contribuidores
 
-<picture>
-  <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" ></img>
-</picture>
+
+
+
+| <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" > | <br/>
+| <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="" height="50px" > |
+
 
 
