@@ -20,6 +20,8 @@ Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pess
 
 * Gênesis Native
 
+<!--
+
 ## Contribuidores
 
 <table>
@@ -39,6 +41,6 @@ Gênesis é uma espécie de marketplace de serviços relacionado a TI, onde pess
   </tbody>
 </table>
 
-
+-->
 
 
