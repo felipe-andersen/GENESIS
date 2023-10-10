@@ -24,7 +24,7 @@ Genesis é uma espécie de marketplace de serviços relacionado a TI, onde pesso
 
 * Genesis Native
 
-<!--
+
 
 ## Contribuidores
 
@@ -37,14 +37,19 @@ Genesis é uma espécie de marketplace de serviços relacionado a TI, onde pesso
         </a>
       </td>
       <td>
-        <a href="">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Ea9cyIi_U8y7mgzqX1SitKtppQOzlciXA&usqp=CAU" alt="Contribuidor" width="30px">
+        <a href="GitHub.com/igorrodrigz">
+          <img src="https://avatars.githubusercontent.com/u/137235250?v=4" alt="Contribuidor" width="30px">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VitorScallen77">
+          <img src="https://avatars.githubusercontent.com/u/114079832?v=4" alt="Contribuidor" width="30px">
         </a>
       </td>
     </tr>
   </tbody>
 </table>
 
--->
+
 
 
