@@ -35,21 +35,21 @@ Genesis é uma espécie de marketplace de serviços relacionado a TI, onde pesso
         <a href="https://github.com/felipe-andersen">
           <img src="https://avatars.githubusercontent.com/u/78663459?v=4" alt="Contribuidor" width="40px">
           <br>
-          <sub>@felipe-andersen</sub>
+          <sub>felipe-andersen</sub>
         </a>
       </td>
       <td align="center">
         <a href="GitHub.com/igorrodrigz">
           <img src="https://avatars.githubusercontent.com/u/137235250?v=4" alt="Contribuidor" width="40px">
             <br>
-          <sub>@igorrodrigz</sub>
+          <sub>igorrodrigz</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/VitorScallen77">
           <img src="https://avatars.githubusercontent.com/u/114079832?v=4" alt="Contribuidor" width="40px">
            <br>
-          <sub>@VitorScallen77</sub>
+          <sub>VitorScallen77</sub>
         </a>
       </td>
     </tr>
